@@ -1,0 +1,19 @@
+.Clock {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: #793086;
+  text-align: center;
+  color: white;
+}
+
+
+
+button img {
+  height: 100px;
+}
+
+p{
+  font-size: 30px;
+}
+
